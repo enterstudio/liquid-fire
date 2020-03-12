@@ -18,7 +18,7 @@
   "author": "Edward Faulkner <ef@alum.mit.edu>",
   "license": "MIT",
   "dependencies": {
-    "broccoli-funnel": "^1.0.1",
+    "broccoli-funnel": "^3.0.0",
     "broccoli-merge-trees": "^1.0.0",
     "ember-cli-babel": "^5.1.6",
     "ember-cli-htmlbars": "^1.0.8",
